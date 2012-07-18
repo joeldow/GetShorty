@@ -1,0 +1,8 @@
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\bin\Debug\GetShorty.Tests.dll.config
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\bin\Debug\GetShorty.Tests.dll
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\bin\Debug\GetShorty.Tests.pdb
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\bin\Debug\GetShorty.dll
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\bin\Debug\GetShorty.pdb
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\obj\Debug\GetShorty.Tests.dll
+C:\Dev\GetShorty\GetShorty\GetShorty.Tests\obj\Debug\GetShorty.Tests.pdb

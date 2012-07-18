@@ -1,0 +1,7 @@
+C:\Dev\GetShorty\GetShorty\GetShorty\bin\GetShorty.dll
+C:\Dev\GetShorty\GetShorty\GetShorty\bin\GetShorty.pdb
+C:\Dev\GetShorty\GetShorty\GetShorty\bin\EntityFramework.dll
+C:\Dev\GetShorty\GetShorty\GetShorty\bin\EntityFramework.xml
+C:\Dev\GetShorty\GetShorty\GetShorty\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\GetShorty\GetShorty\GetShorty\obj\Debug\GetShorty.dll
+C:\Dev\GetShorty\GetShorty\GetShorty\obj\Debug\GetShorty.pdb
